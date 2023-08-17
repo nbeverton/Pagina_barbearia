@@ -1,0 +1,13 @@
+header{
+    background-color: beige;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 300px;
+    
+}
+
+img{
+    height:120px;
+}
